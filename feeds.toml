@@ -1,9 +1,0 @@
-[fitthesize_bestreview]
-title = "핏더사이즈 ─ 베스트 리뷰"
-url = "https://cafe.naver.com/ArticleList.nhn?search.clubid=29942898&search.menuid=62&search.boardtype=C"
-entrySelector = "ul.article-movie-sub li"
-titleSelector = "span.inner strong"
-linkSelector = "div.con_top a"
-imageSelector = "div.movie-img a img"
-contentSelector = "a.txt"
-waitUntil = "networkidle"
