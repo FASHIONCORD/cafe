@@ -7,3 +7,13 @@ linkSelector = "a.txt_area"
 imageSelector = "div.thumb img"
 contentSelector = "span.nick span.ellip"
 waitUntil = "networkidle"
+
+[fitthesize_bestcoordi]
+title = "핏더사이즈 ─ 베스트 코디"
+url = "https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"
+entrySelector = "ul.list_area li.board_box"
+titleSelector = "strong.tit"
+linkSelector = "a.txt_area"
+imageSelector = "div.thumb img"
+contentSelector = "span.nick span.ellip"
+waitUntil = "networkidle"
