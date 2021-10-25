@@ -1,8 +1,425 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-    <title>핏더사이즈 ─ 베스트 코디</title>
-    <updated>2021-10-25T07:38:14.484Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>핏더사이즈 ─ 베스트 코디</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Oct 2021 08:43:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 느낌으로 한 번 입어봤어요 뀨~웃]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=137044&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=137044&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[쉐키읏]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMjRfMTM0/MDAxNjM1MDU2NjI1NjUz.i7Cnt-pZMexZ_GKduQEFoFn4syGsKAJOLCiWZWQcOP0g.pdzNuD_UKtaH1JDqJn_LAvMb23fqV2Xs7KZlTkGbAHQg.JPEG/KakaoTalk_20210929_000942667_03.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#6 피크닉 가는 룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=136957&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=136957&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[고쇼핑]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMjRfMTc2/MDAxNjM1MDA3Njg0MTM4.YnvOuLQojlYOVbAWyev8f1DSPgbZcwjklSqEw9viAUIg.H1_NK_mIzqdNS3pyx_nVjwbghBSwli-YamKawmLMk8wg.JPEG/IMG_9482.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기전 오늘의 룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134635&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134635&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[평범남]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTNfMTE0/MDAxNjM0MTM0Nzg2OTk4.Pn8chrwJ-a2K4AxWgM0OyybfltEPFcHf0OKyPQY8IQEg.5JF_MRdkYerdxSOQxIMxpZjZz_C8BjhytwnLd6ylnZ8g.JPEG/6C155A2E-8E67-411E-B9F3-92B4A000D9C6.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 좋아하는 지 몰라서 일단 다 준비해봤어 1탄]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134593&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134593&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[핏더형사랑해]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTNfMTQy/MDAxNjM0MTI1NjQ5NjEz.SQbeJbbZ00rO4T_wuthX9JMKbWQ4yomFnHTfSluUhE8g.VKY6T37FIxL9k50yytsyZMmpkaZ0TY7L8_h4NveNcGsg.JPEG/2C8FEB95-190F-4CC1-879A-0A50CFE19BB9.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리허그남]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134471&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134471&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[릴우지바틀]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTNfMTk4/MDAxNjM0MDkzODcxOTg1.NznoLOIzT_Rb4pQ8kXvbRJp9digvkPkTXMId9fmaeS0g.ZEl7mW5deRTh_Zj7gZRduZ1A_al8VagaPa2QsBD5S6sg.JPEG/IMG_2477.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔츠에 집업이 은근 꿀!]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134366&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134366&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[술맛이어떠냐]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTJfMjYz/MDAxNjM0MDM5ODQxODc1.A3-2nbkVc8Fz75J3sMRRQKXBy44Vjoe0pd_3THM18qAg.0KZovSnad61nEtxMNzkmSpieMK1f02nwPoRhD05B6CEg.JPEG/IMG_9655_Facetune_12-10-2021-19-31-12.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크롭 퀼팅 자켓 장착 간지 읏되는 룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134301&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134301&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[safarian]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTJfMTI0/MDAxNjM0MDI4NzA3NjM1.uRrF6Zv3wro3pkdQz1e6FRNLH5exfSt20nIwSkO0XPUg.f6AkaReZIl0bF3D4YBzfoWUzRTuONz75BTVinr02Uckg.JPEG/B3CA021E-2CC1-4889-B554-FCA46F966A2F.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[후니룩(6)]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134239&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134239&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[66ooni]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTJfNDcg/MDAxNjM0MDE1MDM1Nzg1.wpBSqifkZxCnSGPo-mPwdsFFtAmR7UK9TVYs4csUyVQg.R_OTzom3q8kdgPnjabINX1mr5b25FU3TkYhQJHPMAtAg.JPEG/IMG_3198.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[보택아밴애타]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134134&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134134&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[miiiinwooooo]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTJfMjQ5/MDAxNjMzOTY3ODY2ODE0.ajdpMMVTLCx2W2nLI_ved3aZvMu_St0PDoTX4WOoRMEg.NpIzzWQskdtHWixo1Pm6s_SNhhzvlbpuzkDPIrGm02Qg.JPEG/KakaoTalk_20211012_005119382_01.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카라니트가디건]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134100&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134100&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[몰포로지]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTFfMjM4/MDAxNjMzOTYxMjY3Nzcz.QhaKgv-zye4BlqoUQV1vbGgPof6m95AfWLKcHeGRQcQg.qtYOwdzsvHIaVZ5ftbG8wsWAw6LBgVnNGj_aD1-fVBcg.JPEG/IMG_0898.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 날씨 행복 〰️〰️]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134015&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134015&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[뚕쓰]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTFfMTUz/MDAxNjMzOTQ4MDI4MjUw.n1Dskv6xw7wq4zPprYZu6s-C3FDQliqBYx7EYwtSM1Ug.SExnBvSKAkNX_UQtB2REJsD5mg9DmIYjRQFOJZtIBUYg.JPEG/IMG_0331.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[가을엔 가디건 / 992도 📸]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134014&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=134014&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[beabletodo]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTFfMTA2/MDAxNjMzOTQ3OTE3NTEz.2Kx9tj_Qwq_FxqR1chVoyf9XCnYn322LC5xo9Vl_PgMg.bZl5B91SEeUCnEZitYZnVI9vufAzF9vkBaUeSdfmMOAg.JPEG/IMG_2492.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12]]></title>
+            <link>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</link>
+            <guid>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!----><div data-v-2210a4a4="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-2210a4a4="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이마트 먹부림 오라잇😊]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133986&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133986&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[조잼꾼]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTFfNSAg/MDAxNjMzOTM5MDcwNjky.CPU-IrafuI2o_hVSfgMreqfcQguWKMK1VvjHip8T5KEg.gEzI0qvik1QLkWzXaeFrkAf_9sstu5c-9C-VD5eeQlkg.JPEG/2C322B92-E394-4E90-B9D6-3057A626B9F6.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이키 신고 올걸🤦🏻🤦🏻‍♀️]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133880&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133880&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[뀨유후]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTFfODMg/MDAxNjMzODgyMjkyMTI4.cHaTG_34YwF2sMHSZNPN5Pm9sHHUjcWOPDO0Ve0gC-4g.ss8Zal8Rww4CMKutQtTkebC_SUmFTTS7dSH9Lr13_i8g.JPEG/5C838C48-3686-43AD-84E1-A8CB9E2466EA.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롱슬리브 추우우우우우천]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133821&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133821&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[팤키]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTBfMTgy/MDAxNjMzODcxODM4NzY4.ml0OIASiKtVo9yIoa2w5spvKtorWY-SJUI3fyVpLXQMg.kYWsc2Dvl3fUEbtO0QCNUkq5PGdz5ZO_Ls9IL_KaGpYg.JPEG/2C95433C-EE95-4462-A769-1EE371B07482.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[보세로 저렴하게 가을나기…]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133791&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133791&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[21학번 건축학도]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMTBfMjk3/MDAxNjMzODY2ODkzMDA4.EBmEdK9oYP2muNSfEl53SnMX3FWrxzbUvzn-h2z2Trog.TMz-0CAKB3jCJgI8lsNyjcI4Mo6CJ5_b4j8zHdjeh4Ug.JPEG/DD387906-DAE3-448B-9D43-5084197125DA.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 환절기룩✋]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133249&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133249&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[플리트]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMDhfMTI1/MDAxNjMzNjcyNDk2MTQx.J2sNGWa6OA3JStxDxJfUQJPDRZFnobw_TUYAXlgcCpog.zYFHUgPbAUqhBpWHeRvP6B5-pcVnYV63oCsTauWkucgg.JPEG/C7582ACB-CE66-4AF8-911E-7AC83620B7B9.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[#13 파랑이 주인공🐳]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133238&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133238&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[hoduu]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMDhfNTYg/MDAxNjMzNjcxMDM1MTMy.BzNCZ4Zu6-wghH8Kb1_cCyzGmNTk49jEyczhU6NptTgg.fvWdZM6GyYWSxbBOwgKREJ5vlyIFQrslWPVX4JdDQDUg.JPEG/IMG%EF%BC%BF20211008%EF%BC%BF142028%EF%BC%BF652.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배고파 배고파 배고파 🥺]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133100&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133100&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[뚕쓰]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMDdfMzkg/MDAxNjMzNjA4NjM1MjY0.BJnLoXrViI6zeMNEdD2OQ_KwOKgIgVi-kW3wE5Fn3cUg.DnF4BCdEqxByz4iDTj6MSIWmcuKWkWqVcF-llA5rRYMg.JPEG/IMG_9708.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[으음 카라니트 좋다!]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133074&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133074&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[월구]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMDdfNDIg/MDAxNjMzNjA1MTEyMTY1.t0OD3mKH0izX2J-cQduUUj7aCvogjdaDADAwjvYTYBcg.Eg2dSdiN-lHI1xV1jbEQJpG1uzPPyrXCf7CTcheKxAQg.JPEG/IMG_0663.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[디네댓 크록스~]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133007&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=133007&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[찐대두]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMDdfNTUg/MDAxNjMzNTg5OTMyMTg4.GL6Ivf93c2iiVRB5aILEMaJvhg_st32rNqynpjWE77wg.ryWOjaoj5pCUokRUNmbMu_CoeaaO0d9qMKJTPB4Dv7og.JPEG/A0FCE45B-C73E-4D69-B348-982D638ED865.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국 모아이]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=132697&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=132697&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[모아이석상]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTEwMDZfMTQ5/MDAxNjMzNDg3NjI3MTQ5.i2lA24t8d6jOQhUo6n43lNSNrQu7U_Wos_HmR6Ms5_og.GEW_WDxw91P09Eofa-Xonv0uoWbbO59LUcszcQfSDuYg.JPEG/C95F08F6-458F-4E32-8167-F2679EC2481A.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[바시티자켓 코디]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130315&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130315&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[jjang gu]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MjVfMTMw/MDAxNjMyNTYwMjU1NzI4.W_WRD4z3gZ9Knjx2OJ6vT4BPIUaIppixy9SYXe9CVSAg.Rv2U91IqE3rcP7LRinlAXdnc6_9zKF1Q9766-ZOVM8sg.JPEG/0961BCAA-1C04-452C-AF5A-310866844244.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을은 셋업~!]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130289&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130289&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[onenebs]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MjVfMTg4/MDAxNjMyNTUzODQyODU0.AEpBXhLO4LDljyslpFxzErOPpfgHT-TLq2ry3F8GN-4g.d35MSt-tJh6yPP6GYc1A9n25kEzGZR9gbt0gBTWH65og.JPEG/992469C0-5B75-414F-B337-73A13541493E.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본유학생룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130075&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130075&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[감성 끝자락]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MjRfMjY3/MDAxNjMyNDc2NDQ0MjE1.AOGiVOOuRiCFjl9O4gCC80lTHLgGNbuTF_c_Y-2TEGsg.49Uz4MOMGs-YWiHWEWhnA5VH-PfMBcY0j7mdp_VOjHMg.JPEG/8BEAF68D-5CE7-4CE7-A8C5-851C08D25D5A.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카시나 덩크 읏댄다~~~~]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130065&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130065&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[간지오라이이]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MjRfNTUg/MDAxNjMyNDczOTY1MTgw.fdGOciDvcq4Amd5qvndGhWFMDN1XLrf-HXSFf1SBRLsg.e_ryJUhDlExiKcmPg1n7jx3RiTElgfciwhKxyLPZS3kg.JPEG/1630152032574.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무채색.. 코디도 편하고 편안하네요🖤]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130056&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130056&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[아햇코]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MjRfMTc5/MDAxNjMyNDcxMDUyNTQ1.VOLLBNjHasfSFd7fyKpMz7EdRLJ4qmzDe8X4o-AnTH8g.L8-tXXJkbOJnN3NSIyMZx2wZ6Bs7PjxexoogSLyY2Awg.JPEG/PSFix%EF%BC%BF20210924%EF%BC%BF162044.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[서교동에서]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130036&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=130036&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[baampark]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MjRfMjcw/MDAxNjMyNDY2Mjg2MDEw.Wrt2jwFgUUxApCHbg6DIHSTpqLKDHc0UEKe63UR-Fqsg.rOToBpmfHy7GSa6AbvAbvqYlHa7rh7zf6Z8gfBYJjAkg.JPEG/5DDFF7CC-534D-4ADA-9B0C-9C5F5A82A24A.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[학교 선배룩👻]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=129721&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=129721&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[월구]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MjNfMTkw/MDAxNjMyMzUyOTI5MDEy.aj_OACSEIN3g4T2rr_4t84aeM6CW5P0dRLYe7HFUTtYg.PraPwtxzvHew_MPOypQBtGUMGQ_TdhktNeIOIRRr1ykg.JPEG/IMG_1842.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[나투시엔 레더자켓이지 아직 덥다 더워 가을전어 먹으러 가는룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127480&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127480&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[safarian]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTNfNTkg/MDAxNjMxNTIxOTU4NDAw.42wHe5qtdxDnNJgA22VHlvIJX32wWoe6S61NpSc-Hawg.WR-kuebv4MfmGsNVGDgiwNJIrOJ4kXJIel2ka7D2DL4g.JPEG/B8012725-022A-4EB9-942F-07D7CA3C7AA1.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악은 국가가 허락한 유일한 마약이니ㄲr,,,]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127446&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127446&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[핏더형사랑해]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTNfMTg1/MDAxNjMxNTExNzg2Nzk4.3hXBcWNfJ9ZDHh8XUNOU2Y71Oz6R9Vfu5bvIUlqDLZ4g.m-4b1_W5Lr8PwOqA0ucAU3WwNAanchHkFcOfh9-M14Eg.JPEG/9AAA6D2B-6C0D-43D2-896A-9A8DE11259E7.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이지베이비]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127383&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127383&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[릴우지바틀]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTNfMTY1/MDAxNjMxNDkwNjQxMDc5.I9Iegfz4L_fUDRth4c1NOe454VWx5TWGrkhhOTXxiSkg.6PW-H842Sh0yMhvYP-aRmU9HnU2nly27kGEVPgn83dgg.JPEG/C9C0CA72-55B4-4DBE-9C71-37FBDC976A70.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[히팝]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127341&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127341&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[poempainting]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTJfMzIg/MDAxNjMxNDU4MjQ2Mzk2.SicFCmBrfKWNeZYi8yBjo9xLxS7ZX4xaYOkahEWY3ZIg.xTJkhlWN5pP8x-YcBcTsEH6Dyxx1ok_vHUGrC7Cud64g.JPEG/IMG_2734.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[34]]></title>
+            <link>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</link>
+            <guid>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!----><div data-v-2210a4a4="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-2210a4a4="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[oam 청바지룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127284&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127284&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[호로롤롤롤]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTJfMjYz/MDAxNjMxNDQ2NDE3MDMz.Xzlu-50OPlx44U4xW8bvcj-jyik_blAIoaKH9m8qNU0g.xyvlFarDsZlcdickoQ7IW3SNch1iWHFGjJ29S3misL8g.JPEG/IMG%EF%BC%BF20210912%EF%BC%BF202121%EF%BC%BF273.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가는 여름이 아쉬운 오렌지룩🍊]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127065&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=127065&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[빈지코]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTFfMjU3/MDAxNjMxMzY4OTE2Njc5.RstrrQberrGp1uC7g8buNoxdSMubFccDCSjA5M4mBP4g.1uVtRLI5-GW5Y3dcZ0ob0eKGN-epa_GyUOd_ICLTjMwg.JPEG/IMG_7472.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 착장들 올려봅니댜!]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126961&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126961&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[제튼]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTFfMjYw/MDAxNjMxMzUwMzkwMDcy.Y7snuyEzsz6LV7AiW0M_ThF__VnotQoffRSMV0xqVE4g.Eo5HTRpwLTIRWkWuK_WynjgKDw0i1yYPd0MtagMZ7rQg.JPEG/B612_20210909_142637_472.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 나드리🍂]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126890&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126890&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[핏더형사랑해]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTFfMjQz/MDAxNjMxMzI5NTQ5MzQz.TFBBmanYilKURTfgoag0C0ufrU_SNLKNawvgqF0HR1cg.jSAgBBql7C9tDJg6klubKQyKqiHZnMtscT9TixIOE7gg.JPEG/E98B7B1E-F5AA-47F8-BA84-42C640EE2D1E.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청청청청청청]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126857&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126857&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[흐으으음]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MTFfMTE2/MDAxNjMxMjk2NTI2MTI0.94En336KBvrW7emgtGaO3MD0MLF7BwXhPDiBhV2hoy0g.YZ4DlvzLfjieAgoUV9S7ibPtxsz5GtsKQrAFrAuiplog.JPEG/IMG_6299.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을이니깐 샴브레이셔츠]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126553&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126553&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[웨이피]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDlfMTg0/MDAxNjMxMTkyNzk3NzYx.pxvCshhFRCeZ8w1Y1jBJpzIDGQKKfqgrS1fzAYwDiNAg.RFMVwHHo5uAIrHyoLvtIOGD-DdwM3GMSEkC-2bFbE54g.JPEG/IMG_9348.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[부산기념 읏대는 슈프림룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126447&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126447&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[수파왕]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDlfNjYg/MDAxNjMxMTYyMjU0NTk0.Nr6eYbkdNCP9herer2ut5wBsI7Yre_Xn8dspTRIcQQMg.kKHgg60wNKzgevHKj3zl-slCHp6rpXX2Zrt0YpRO0DUg.JPEG/IMG_1639.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에 시리보이 ~]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126412&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126412&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[핏더형오른팔]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDlfMTU3/MDAxNjMxMTUzODA5MTE4.kNRXwil8sUut0X706-qe4mdE0gSnbdYO82krx7Brh0kg.RPoh0EuB9OxF9NknVMbpqO7lX_epfmTBKJElu_d3Pk4g.JPEG/externalFile.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐주얼도 입고 ? 스트릿도 입고 ?]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126380&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126380&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[소코년]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDlfMTU2/MDAxNjMxMTM1NDIzNzMw.WpZBYedJcFVjyANq-p6PyqoEoKEfZJ0yZ9EyoqLXlzUg.6BOJedYDeeOqmWweuqR3CalMNbafx-Ftjtm0lFmwzPMg.JPEG/IMG_4867.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 여름코디]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126209&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126209&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[dailybasik]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDhfMjkz/MDAxNjMxMDgyNjEwMjE4.5PAo9KRNVskGqTsaX0rxriNdBWwZ0IEj2ZzS4UZxbQIg.NQusqPnBKx8pj_oCgrD0gxnH6s6YqIxIhNPUivEmuwcg.JPEG/IMG_4667.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[옷입기 좋은 날이네욘]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126201&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126201&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[곽두파리]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDhfODYg/MDAxNjMxMDc5MzkyMDA2.7L1ZfQzV9wUgDL55oE81r7Lr3eGlibPS9tI3MKWhEN8g.rFTiqVCA4yw2QsT4zp3RrGw2wv1GrLX8FThDpNCp6M4g.JPEG/IMG_1607.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 끝 가을 언저리]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126103&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126103&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[건씨]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDdfMSAg/MDAxNjMxMDIzMjExOTMw.ySLJViHyYtKnoNB6KRfpD7h0qIo3yEcBNKamXpeqa1Qg.z-BfAEKj1_8F-aWd47JDX5s5rB2mR48a4CAxB8z4EVkg.JPEG/IMG_5072.jpg?type=f100_100" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새 신발은 비 오는날에🥲]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126102&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126102&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[김승팔]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDdfMjQz/MDAxNjMxMDIyNTc3MDgw.O7osoFxpzwV0LvpW6jwX3T5YpKANEFqQe8Fk0qsqPeMg.-XLkAS1Wb2o9YZaarTd8i7EJX9oZNHtj73B-73RFWZYg.JPEG/649A0111-36E0-4681-AABC-129879D9D453.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 캠퍼스룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126073&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=126073&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[조유신]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDdfNzcg/MDAxNjMxMDE1MDYwNjMy.IVlW0jKEPqjF2WgOR4IPuRxk3pW5i8dILG66xNbc3Akg.wzOPehjUOK-e3mlb27gUcqz2Spe3jaOsImeIF-kRJIog.JPEG/IMG_0002.JPG?type=f100_100" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[비읏되게..오는구나ㅠㅠㅠㅠ]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=125961&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=125961&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[조잼꾼]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDdfMTI3/MDAxNjMwOTc1MDMyNTk4.jzw1-CJ0vAurb517dESzggVoGuuKf6Zyf_5FWxm-9-wg.WgexOaiLZBHXUAswU2DAFM23Ybbyn8m61aGGIG-Diisg.JPEG/C9244E61-4BEB-4623-88B2-3CF7A7E3DA52.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 데일리룩]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=125881&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=125881&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[takem2over]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDZfNDUg/MDAxNjMwOTMxMTU0ODgw.8eyCTDg8wvaU5mGFSoFHw6vJ_QcHDQMV_FNEGC-0vYgg.EB-idhN5rnjBQV4niy0xaC93yl3yCBWm1x62Re4sHRYg.JPEG/736F1A90-EC9B-46E3-A7F7-E7D2A252AD66.jpeg?type=f100_100" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[올검은 고민할게 없죠]]></title>
+            <link>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=125787&amp;boardtype=L&amp;menuid=54</link>
+            <guid>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=125787&amp;boardtype=L&amp;menuid=54</guid>
+            <pubDate>Mon, 25 Oct 2021 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[미대인]]></content:encoded>
+            <enclosure url="https://cafethumb.pstatic.net/MjAyMTA5MDZfODgg/MDAxNjMwOTExMjc0NzIy.B-9y8uNgvr665Lwv7GIzmuTdgKGZFmp75hY_nr7PQx0g.KWYWfCHLxtatO8KW3SGFgUAIF-hPMwbOWD6M220LrSYg.PNG/IMG_1149.PNG?type=f100_100" length="0" type="image/PNG"/>
+        </item>
+    </channel>
+</rss>
