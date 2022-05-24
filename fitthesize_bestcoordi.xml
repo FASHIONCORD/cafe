@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
     <title>핏더사이즈 ─ 베스트 코디</title>
-    <updated>2022-05-12T22:43:03.279Z</updated>
+    <updated>2022-05-24T02:28:29.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬릭백 뽀인트]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=186860&amp;boardtype=L&amp;menuid=54</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=186860&amp;boardtype=L&amp;menuid=54"/>
+        <updated>2022-05-24T02:28:28.019Z</updated>
+        <content type="html"><![CDATA[핀오키오]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸릇푸릇!]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=186568&amp;boardtype=L&amp;menuid=54</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=186568&amp;boardtype=L&amp;menuid=54"/>
+        <updated>2022-05-24T02:28:28.024Z</updated>
+        <content type="html"><![CDATA[홍댕기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[등업 기념 봄 데일리룩 올려봅니다 ..]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=181850&amp;boardtype=L&amp;menuid=54</id>
@@ -76,6 +90,13 @@
         <content type="html"><![CDATA[Bbbbbbb]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2022-05-24T02:28:27.563Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스카프 도전!!]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=162960&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=162960&amp;boardtype=L&amp;menuid=54"/>
@@ -88,13 +109,6 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=160879&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-05-10T11:38:37.392Z</updated>
         <content type="html"><![CDATA[릴우지바틀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2022-05-12T22:43:01.978Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💥한번쯤 참고할 만한 겨울데일리룩 모음💥]]></title>
@@ -230,6 +244,13 @@
         <content type="html"><![CDATA[takem2over]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2022-05-24T02:28:27.564Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[새해 첫 눜하 🙋‍♂️]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151259&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151259&amp;boardtype=L&amp;menuid=54"/>
@@ -242,13 +263,6 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151219&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-05-10T11:38:37.419Z</updated>
         <content type="html"><![CDATA[릴우지바틀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[34]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2022-05-12T22:43:01.995Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[겨울 멋쟁이 얼어죽..]]></title>
@@ -354,19 +368,5 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=143371&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-05-10T11:38:37.461Z</updated>
         <content type="html"><![CDATA[ggubbe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가울맞이 레더룩입니다]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=137339&amp;boardtype=L&amp;menuid=54</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=137339&amp;boardtype=L&amp;menuid=54"/>
-        <updated>2022-05-10T11:38:37.462Z</updated>
-        <content type="html"><![CDATA[올드가든]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 회색 후드🚶🏻‍♂️]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=137289&amp;boardtype=L&amp;menuid=54</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=137289&amp;boardtype=L&amp;menuid=54"/>
-        <updated>2022-05-10T11:38:37.462Z</updated>
-        <content type="html"><![CDATA[읏며든다]]></content>
     </entry>
 </feed>
