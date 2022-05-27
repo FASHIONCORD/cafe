@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
     <title>핏더사이즈 ─ 베스트 리뷰</title>
-    <updated>2022-05-27T07:24:06.086Z</updated>
+    <updated>2022-05-27T08:31:00.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[에스 뀨~~]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=188682&amp;boardtype=L&amp;menuid=62</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=188682&amp;boardtype=L&amp;menuid=62"/>
-        <updated>2022-05-25T17:31:25.101Z</updated>
-        <content type="html"><![CDATA[DANBO0]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[참신뢰] 핏더 직원이 추천하는 이쁜 쉐입의 더비]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=180557&amp;boardtype=L&amp;menuid=62</id>
@@ -90,18 +83,18 @@
         <content type="html"><![CDATA[Mare]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2022-05-27T07:23:54.372Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[핏더형의 81번째 오른팔… 떴냐…? OAM X 캐치볼 콜라보 신발 리뷰!]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=160629&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=160629&amp;boardtype=L&amp;menuid=62"/>
         <updated>2022-05-25T04:38:42.645Z</updated>
         <content type="html"><![CDATA[현영현영해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2022-05-27T08:30:48.220Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[내돈내산]_남들과 다른 바지를 찾고있다면!! 감성 브랜드 YIYAE 바지 후기.]]></title>
@@ -244,18 +237,18 @@
         <content type="html"><![CDATA[EricM]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[34]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2022-05-27T07:23:54.373Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[리뷰] 하루에 스투시 티셔츠 4개산 흑우, 사이즈 및 퀄리티 리뷰 들어갑니다.]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=107711&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=107711&amp;boardtype=L&amp;menuid=62"/>
         <updated>2022-05-25T04:38:42.690Z</updated>
         <content type="html"><![CDATA[mn5k]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2022-05-27T08:30:48.312Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💢[무탠다드] 세미 와이드 슬릿 히든 밴딩 슬랙스 [더스티 베이지] 후기💢]]></title>
@@ -368,5 +361,12 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=84798&amp;boardtype=L&amp;menuid=62"/>
         <updated>2022-05-25T04:38:42.748Z</updated>
         <content type="html"><![CDATA[핑거맨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨이드 가디건 (Light Grey) 체험단 후기 ! (정성🤍)]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=84198&amp;boardtype=L&amp;menuid=62</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=84198&amp;boardtype=L&amp;menuid=62"/>
+        <updated>2022-05-27T08:30:48.882Z</updated>
+        <content type="html"><![CDATA[건대패린이]]></content>
     </entry>
 </feed>
