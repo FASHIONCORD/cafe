@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
     <title>핏더사이즈 ─ 베스트 코디</title>
-    <updated>2022-06-15T07:23:11.407Z</updated>
+    <updated>2022-06-15T08:31:32.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페페로니 피자 배달 왔어요]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=192607&amp;boardtype=L&amp;menuid=54</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=192607&amp;boardtype=L&amp;menuid=54"/>
+        <updated>2022-06-15T08:31:31.473Z</updated>
+        <content type="html"><![CDATA[bohemian]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여섯번째 룩]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=189303&amp;boardtype=L&amp;menuid=54</id>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[데일리양쿤]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2022-06-15T08:31:31.227Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[낮엔 이제 덥네유]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=175048&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=175048&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-05-10T11:38:37.388Z</updated>
         <content type="html"><![CDATA[차령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2022-06-15T07:23:10.183Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[날 풀려서 좋아요🏂]]></title>
@@ -237,18 +244,18 @@
         <content type="html"><![CDATA[차령]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2022-06-15T08:31:31.229Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[멀쩡한 사진이 없어 죄송합니다 선생님들]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=152103&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=152103&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-05-10T11:38:37.416Z</updated>
         <content type="html"><![CDATA[뀨유후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[34]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2022-06-15T07:23:10.184Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아더에러 과잠바]]></title>
@@ -361,12 +368,5 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=144090&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-05-10T11:38:37.459Z</updated>
         <content type="html"><![CDATA[뀨유후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈프림캠프캡 써봤슴돠]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=144032&amp;boardtype=L&amp;menuid=54</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=144032&amp;boardtype=L&amp;menuid=54"/>
-        <updated>2022-05-10T11:38:37.461Z</updated>
-        <content type="html"><![CDATA[불개미개미]]></content>
     </entry>
 </feed>
