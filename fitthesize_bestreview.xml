@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
     <title>핏더사이즈 ─ 베스트 리뷰</title>
-    <updated>2022-07-23T05:24:58.551Z</updated>
+    <updated>2022-07-23T06:29:52.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
     <entry>
@@ -93,11 +93,11 @@
         <title type="html"><![CDATA[12]]></title>
         <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
         <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2022-07-23T05:24:45.557Z</updated>
+        <updated>2022-07-23T06:29:39.465Z</updated>
         <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[참신뢰] 핏더 직원이 추천하는 봄 간절기 아우터]]></title>
+        <title type="html"><![CDATA[환절기 추천 봄 아우터]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=171449&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=171449&amp;boardtype=L&amp;menuid=62"/>
         <updated>2022-07-19T11:22:06.280Z</updated>
@@ -167,27 +167,6 @@
         <content type="html"><![CDATA[STRESS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[참신뢰] 핏더 직원이 추천하는 MA-1 자켓]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=138875&amp;boardtype=L&amp;menuid=62</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=138875&amp;boardtype=L&amp;menuid=62"/>
-        <updated>2022-07-19T11:22:06.289Z</updated>
-        <content type="html"><![CDATA[안느]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[참신뢰] 핏더 직원이 추천하는 바람막이 자켓]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=136379&amp;boardtype=L&amp;menuid=62</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=136379&amp;boardtype=L&amp;menuid=62"/>
-        <updated>2022-07-19T11:22:06.290Z</updated>
-        <content type="html"><![CDATA[안느]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[참신뢰] 핏더 직원이 추천하는 바시티 자켓]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=136356&amp;boardtype=L&amp;menuid=62</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=136356&amp;boardtype=L&amp;menuid=62"/>
-        <updated>2022-07-19T11:22:06.291Z</updated>
-        <content type="html"><![CDATA[안느]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[비긴 2.0.2 발마칸 코트 네이비]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=135936&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=135936&amp;boardtype=L&amp;menuid=62"/>
@@ -244,13 +223,6 @@
         <content type="html"><![CDATA[옌토]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[34]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2022-07-23T05:24:45.562Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bodega x New Balance 990v3 "bodega store 15th Aniversary”]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=111355&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=111355&amp;boardtype=L&amp;menuid=62"/>
@@ -270,6 +242,13 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=108139&amp;boardtype=L&amp;menuid=62"/>
         <updated>2022-07-19T11:22:06.336Z</updated>
         <content type="html"><![CDATA[EricM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2022-07-23T06:29:39.467Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 하루에 스투시 티셔츠 4개산 흑우, 사이즈 및 퀄리티 리뷰 들어갑니다.]]></title>
@@ -368,5 +347,26 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=89390&amp;boardtype=L&amp;menuid=62"/>
         <updated>2022-07-19T11:22:06.361Z</updated>
         <content type="html"><![CDATA[우아한샴페인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어널러코드 하프밴딩 와이드 데님]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=88168&amp;boardtype=L&amp;menuid=62</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=88168&amp;boardtype=L&amp;menuid=62"/>
+        <updated>2022-07-23T06:29:40.268Z</updated>
+        <content type="html"><![CDATA[재로웅]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WADE] RELAXED COTTON CARDIGAN - Light gray 후기!]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=85107&amp;boardtype=L&amp;menuid=62</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=85107&amp;boardtype=L&amp;menuid=62"/>
+        <updated>2022-07-23T06:29:40.269Z</updated>
+        <content type="html"><![CDATA[액준]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[도프제이슨] Lambskin Placket Jumper 체험단 후기 (스압주의)]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=84798&amp;boardtype=L&amp;menuid=62</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=84798&amp;boardtype=L&amp;menuid=62"/>
+        <updated>2022-07-23T06:29:40.270Z</updated>
+        <content type="html"><![CDATA[핑거맨]]></content>
     </entry>
 </feed>
