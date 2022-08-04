@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FASHIONCORD.github.io/cafe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-04T07:22:40.366Z</updated>
+    <updated>2022-08-04T08:34:07.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[아! 티셔츠 맛있다! OAM X 해피클로스 반팔티 후기! (핏더사이즈 ─ 베스트 리뷰)]]></title>
@@ -92,7 +92,7 @@
         <title type="html"><![CDATA[undefined (핏더사이즈 ─ 베스트 리뷰)]]></title>
         <id>https://FASHIONCORD.github.io/cafe/all.xml</id>
         <link href="https://FASHIONCORD.github.io/cafe/all.xml"/>
-        <updated>2022-08-04T07:22:26.488Z</updated>
+        <updated>2022-08-04T08:33:56.126Z</updated>
         <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
@@ -246,7 +246,7 @@
         <title type="html"><![CDATA[undefined (핏더사이즈 ─ 베스트 리뷰)]]></title>
         <id>https://FASHIONCORD.github.io/cafe/all.xml</id>
         <link href="https://FASHIONCORD.github.io/cafe/all.xml"/>
-        <updated>2022-08-04T07:22:26.489Z</updated>
+        <updated>2022-08-04T08:33:56.154Z</updated>
         <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
@@ -383,11 +383,25 @@
         <content type="html"><![CDATA[호미습득]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[핏더형 추천템 맛있다…! (핏더사이즈 ─ 베스트 코디)]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=201482&amp;boardtype=L&amp;menuid=54</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=201482&amp;boardtype=L&amp;menuid=54"/>
+        <updated>2022-08-04T08:34:06.378Z</updated>
+        <content type="html"><![CDATA[도비는 전두엽]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[그냥입어도 예쁘고 뒤집어서 입으면 더예쁜 후드 (핏더사이즈 ─ 베스트 코디)]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=201009&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=201009&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-08-01T07:28:01.523Z</updated>
         <content type="html"><![CDATA[종강]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땀이 주르륵 (핏더사이즈 ─ 베스트 코디)]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=200935&amp;boardtype=L&amp;menuid=54</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=200935&amp;boardtype=L&amp;menuid=54"/>
+        <updated>2022-08-04T08:34:06.378Z</updated>
+        <content type="html"><![CDATA[motis]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[버뮤다는 왜 버뮤다 팬츠일까 (핏더사이즈 ─ 베스트 코디)]]></title>
@@ -439,6 +453,13 @@
         <content type="html"><![CDATA[수현수]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[undefined (핏더사이즈 ─ 베스트 코디)]]></title>
+        <id>https://FASHIONCORD.github.io/cafe/all.xml</id>
+        <link href="https://FASHIONCORD.github.io/cafe/all.xml"/>
+        <updated>2022-08-04T08:34:06.041Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[그린그린 (핏더사이즈 ─ 베스트 코디)]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=193018&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=193018&amp;boardtype=L&amp;menuid=54"/>
@@ -451,13 +472,6 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=193017&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-07-14T18:31:06.385Z</updated>
         <content type="html"><![CDATA[차령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (핏더사이즈 ─ 베스트 코디)]]></title>
-        <id>https://FASHIONCORD.github.io/cafe/all.xml</id>
-        <link href="https://FASHIONCORD.github.io/cafe/all.xml"/>
-        <updated>2022-08-04T07:22:38.562Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12" idx="12"><div data-v-7515c08e="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더워도 블랙빈티지 (핏더사이즈 ─ 베스트 코디)]]></title>
@@ -593,6 +607,13 @@
         <content type="html"><![CDATA[홍킹홍보쓰]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[undefined (핏더사이즈 ─ 베스트 코디)]]></title>
+        <id>https://FASHIONCORD.github.io/cafe/all.xml</id>
+        <link href="https://FASHIONCORD.github.io/cafe/all.xml"/>
+        <updated>2022-08-04T08:34:06.043Z</updated>
+        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[카우boy (핏더사이즈 ─ 베스트 코디)]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=158920&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=158920&amp;boardtype=L&amp;menuid=54"/>
@@ -605,13 +626,6 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=158838&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-07-14T18:31:06.499Z</updated>
         <content type="html"><![CDATA[takem2over]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (핏더사이즈 ─ 베스트 코디)]]></title>
-        <id>https://FASHIONCORD.github.io/cafe/all.xml</id>
-        <link href="https://FASHIONCORD.github.io/cafe/all.xml"/>
-        <updated>2022-08-04T07:22:38.563Z</updated>
-        <content type="html"><![CDATA[<div data-v-7515c08e="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34" idx="34"><div data-v-7515c08e="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px; display: block;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안추운듯 하더니 갑자기 추워져버린 날씌이 (핏더사이즈 ─ 베스트 코디)]]></title>
@@ -717,19 +731,5 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151666&amp;boardtype=L&amp;menuid=54"/>
         <updated>2022-07-14T18:31:06.504Z</updated>
         <content type="html"><![CDATA[takem2over]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 첫 눜하 🙋‍♂️ (핏더사이즈 ─ 베스트 코디)]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151259&amp;boardtype=L&amp;menuid=54</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151259&amp;boardtype=L&amp;menuid=54"/>
-        <updated>2022-07-14T18:31:06.504Z</updated>
-        <content type="html"><![CDATA[Nukechan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플보이라고불러 (핏더사이즈 ─ 베스트 코디)]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151219&amp;boardtype=L&amp;menuid=54</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=151219&amp;boardtype=L&amp;menuid=54"/>
-        <updated>2022-07-14T18:31:06.509Z</updated>
-        <content type="html"><![CDATA[릴우지바틀]]></content>
     </entry>
 </feed>
