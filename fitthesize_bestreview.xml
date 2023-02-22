@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
     <title>핏더사이즈 ─ 베스트 리뷰</title>
-    <updated>2023-02-22T07:19:52.335Z</updated>
+    <updated>2023-02-22T08:27:56.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[골프채>> 풀셋트 정리합니다]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=242248&amp;boardtype=L&amp;menuid=62</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=242248&amp;boardtype=L&amp;menuid=62"/>
-        <updated>2023-02-22T07:19:39.464Z</updated>
-        <content type="html"><![CDATA[진톨이]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[이 가격 주고 사는거 말안되지만]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=238569&amp;boardtype=L&amp;menuid=62</id>
@@ -90,18 +83,18 @@
         <content type="html"><![CDATA[현영현영해]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2023-02-22T07:19:39.069Z</updated>
-        <content type="html"><![CDATA[<div data-v-4507c3d1="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12"><div data-v-4507c3d1="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Satur(세터)-Cafri Citron(카프리 시트론)]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=195206&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=195206&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-02-15T04:26:19.478Z</updated>
         <content type="html"><![CDATA[Mare]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2023-02-22T08:27:43.944Z</updated>
+        <content type="html"><![CDATA[<div data-v-4507c3d1="" id="sc_articles_ad_wrap_12" data-ad-id="sc_articles_ad_12"><div data-v-4507c3d1="" id="sc_articles_ad_12" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[POTTERY 포터리 컴포트 셔츠 SAX 리뷰]]></title>
@@ -244,18 +237,18 @@
         <content type="html"><![CDATA[Hoxyhoxy]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[34]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2023-02-22T07:19:39.150Z</updated>
-        <content type="html"><![CDATA[<div data-v-4507c3d1="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34"><div data-v-4507c3d1="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[비얼디드키드](비디키) 코튼 실루엣팬츠 네이비. 국밥 와이드치노팬츠]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=129527&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=129527&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-02-15T04:26:19.569Z</updated>
         <content type="html"><![CDATA[Hoxyhoxy]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2023-02-22T08:27:43.950Z</updated>
+        <content type="html"><![CDATA[<div data-v-4507c3d1="" id="sc_articles_ad_wrap_34" data-ad-id="sc_articles_ad_34"><div data-v-4507c3d1="" id="sc_articles_ad_34" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PIECE WORKER X ISKO “VEGAS / NEW BOOT CUT”]]></title>
@@ -368,5 +361,12 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=97807&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-02-15T04:26:19.605Z</updated>
         <content type="html"><![CDATA[Muteki]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반팔에 멍청이 2탄 : 아미 반팔티❣️]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=97652&amp;boardtype=L&amp;menuid=62</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=97652&amp;boardtype=L&amp;menuid=62"/>
+        <updated>2023-02-22T08:27:44.667Z</updated>
+        <content type="html"><![CDATA[야무져]]></content>
     </entry>
 </feed>
