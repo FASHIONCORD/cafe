@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
     <title>핏더사이즈 ─ 베스트 리뷰</title>
-    <updated>2023-05-13T08:21:35.270Z</updated>
+    <updated>2023-05-13T09:16:31.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아식스 젤소노마 뗑킴 착화감 정말 좋네요🕊️]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=255883&amp;boardtype=L&amp;menuid=62</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=255883&amp;boardtype=L&amp;menuid=62"/>
+        <updated>2023-05-13T09:16:20.060Z</updated>
+        <content type="html"><![CDATA[chanelisky]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힘 좀 줘 봤습니다.]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=251730&amp;boardtype=L&amp;menuid=62</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[니티]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2023-05-13T09:16:19.738Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_3" data-ad-id="sc_articles_ad_3" data-unit-id="MW_CAFE_COMMAD_LIST" data-is-comm-ad="true"><div data-v-56bbf69b="" id="sc_articles_ad_3" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Undermycar] 카메 미드나잇]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=232746&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=232746&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-04-30T06:23:00.039Z</updated>
         <content type="html"><![CDATA[helloiamcrong]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2023-05-13T08:21:23.192Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_3" data-ad-id="sc_articles_ad_3" data-unit-id="MW_CAFE_COMMAD_LIST" data-is-comm-ad="true"><div data-v-56bbf69b="" id="sc_articles_ad_3" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[유니클로] 겨울철 선물용 패딩 목도리 리뷰_ 히트텍 라이닝 패디드 스카프]]></title>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[RYUUU]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2023-05-13T09:16:19.748Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_11" data-ad-id="sc_articles_ad_11" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_11" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에프터프레이 크레센트 레더백 후기]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=223511&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=223511&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-04-30T06:23:00.054Z</updated>
         <content type="html"><![CDATA[라오라오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2023-05-13T08:21:23.212Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_11" data-ad-id="sc_articles_ad_11" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_11" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[220820 (OAM FACTORY*KAPPA WINDBREAKER SET-UP EDITION)]]></title>
@@ -202,18 +209,18 @@
         <content type="html"><![CDATA[168 67]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[29]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2023-05-13T09:16:19.779Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_29" data-ad-id="sc_articles_ad_29" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_29" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[형들 아직 더플코트 입어도되나요?]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=149955&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=149955&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-04-30T06:23:00.070Z</updated>
         <content type="html"><![CDATA[2020104040이준석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2023-05-13T08:21:23.213Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_29" data-ad-id="sc_articles_ad_29" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_29" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💢[미나브] 디테처블 메모리 MA-1 점퍼 (블랙) 후기💢]]></title>
@@ -328,18 +335,18 @@
         <content type="html"><![CDATA[후운후운]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[47]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
+        <updated>2023-05-13T09:16:19.784Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_47" data-ad-id="sc_articles_ad_47" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_47" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[BVH] Bethel (honey gold) 후기]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=104911&amp;boardtype=L&amp;menuid=62</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=104911&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-04-30T06:23:00.113Z</updated>
         <content type="html"><![CDATA[Muteki]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[47]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/62"/>
-        <updated>2023-05-13T08:21:23.216Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_47" data-ad-id="sc_articles_ad_47" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_47" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[BVH] BETHEL(BLACK) 안경 체험단 리뷰]]></title>
@@ -375,12 +382,5 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=97954&amp;boardtype=L&amp;menuid=62"/>
         <updated>2023-04-30T06:23:00.143Z</updated>
         <content type="html"><![CDATA[현영현영해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아노블리어 2021 SUMMER 루즈핏 텐셀 린넨 셔츠 후기]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=97807&amp;boardtype=L&amp;menuid=62</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=97807&amp;boardtype=L&amp;menuid=62"/>
-        <updated>2023-04-30T06:23:00.144Z</updated>
-        <content type="html"><![CDATA[Muteki]]></content>
     </entry>
 </feed>
