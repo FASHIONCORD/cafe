@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
     <title>핏더사이즈 ─ 베스트 코디</title>
-    <updated>2023-05-19T03:20:10.501Z</updated>
+    <updated>2023-05-19T04:22:06.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 데일리룩!]]></title>
+        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=256595&amp;boardtype=L&amp;menuid=54</id>
+        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=256595&amp;boardtype=L&amp;menuid=54"/>
+        <updated>2023-05-19T04:22:05.167Z</updated>
+        <content type="html"><![CDATA[자연적인상어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셔츠에 반바지]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=254248&amp;boardtype=L&amp;menuid=54</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[givemeaname]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2023-05-19T04:22:04.769Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_3" data-ad-id="sc_articles_ad_3" data-unit-id="MW_CAFE_COMMAD_LIST" data-is-comm-ad="true"><div data-v-56bbf69b="" id="sc_articles_ad_3" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[좋아하는 옷 기록]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=252604&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=252604&amp;boardtype=L&amp;menuid=54"/>
         <updated>2023-05-13T12:32:53.070Z</updated>
         <content type="html"><![CDATA[yeopjjun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2023-05-19T03:20:08.623Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_3" data-ad-id="sc_articles_ad_3" data-unit-id="MW_CAFE_COMMAD_LIST" data-is-comm-ad="true"><div data-v-56bbf69b="" id="sc_articles_ad_3" class="ad_div" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벌써 반팔 꺼낼줄은 몰랐지...]]></title>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[온리스웻팬츠]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2023-05-19T04:22:04.771Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_11" data-ad-id="sc_articles_ad_11" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_11" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[낮엔 반팔 쌉가능?]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=248556&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=248556&amp;boardtype=L&amp;menuid=54"/>
         <updated>2023-05-13T12:32:53.087Z</updated>
         <content type="html"><![CDATA[아이스아메리카노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2023-05-19T03:20:08.639Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_11" data-ad-id="sc_articles_ad_11" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_11" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌸🌸간만에 도쿄🌸🌸]]></title>
@@ -202,18 +209,18 @@
         <content type="html"><![CDATA[호체]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[29]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2023-05-19T04:22:04.773Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_29" data-ad-id="sc_articles_ad_29" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_29" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[주머니 읏대애애앵]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=247858&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=247858&amp;boardtype=L&amp;menuid=54"/>
         <updated>2023-05-13T12:32:53.131Z</updated>
         <content type="html"><![CDATA[마카우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2023-05-19T03:20:08.661Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_29" data-ad-id="sc_articles_ad_29" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_29" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[봐주세요 남주혁!]]></title>
@@ -328,18 +335,18 @@
         <content type="html"><![CDATA[시요시요]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[47]]></title>
+        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
+        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
+        <updated>2023-05-19T04:22:04.774Z</updated>
+        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_47" data-ad-id="sc_articles_ad_47" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_47" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼죽코 ! 얼죽코 ! 얼죽코 !]]></title>
         <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=227135&amp;boardtype=L&amp;menuid=54</id>
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=227135&amp;boardtype=L&amp;menuid=54"/>
         <updated>2023-05-13T12:32:53.187Z</updated>
         <content type="html"><![CDATA[채공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[47]]></title>
-        <id>https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54</id>
-        <link href="https://m.cafe.naver.com/ca-fe/web/cafes/29942898/menus/54"/>
-        <updated>2023-05-19T03:20:08.662Z</updated>
-        <content type="html"><![CDATA[<div data-v-56bbf69b="" id="sc_articles_ad_wrap_47" data-ad-id="sc_articles_ad_47" data-unit-id="MW_CAFE_BOARD"><div data-v-56bbf69b="" id="sc_articles_ad_47" class="ad_div is_feed_ad" style="min-height: 0px;"></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[따뜻하게~~]]></title>
@@ -375,12 +382,5 @@
         <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=220230&amp;boardtype=L&amp;menuid=54"/>
         <updated>2023-05-13T12:32:53.190Z</updated>
         <content type="html"><![CDATA[양신내]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직은 좀 덥네유~]]></title>
-        <id>https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=219471&amp;boardtype=L&amp;menuid=54</id>
-        <link href="https://m.cafe.naver.com/ArticleRead.nhn?clubid=29942898&amp;articleid=219471&amp;boardtype=L&amp;menuid=54"/>
-        <updated>2023-05-13T12:32:53.191Z</updated>
-        <content type="html"><![CDATA[hakchansik]]></content>
     </entry>
 </feed>
